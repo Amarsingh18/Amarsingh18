@@ -45,9 +45,7 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amarsingh18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarsingh18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amarsingh18&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </p>
 
@@ -67,7 +65,7 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amarsingh18&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amarsingh18&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
