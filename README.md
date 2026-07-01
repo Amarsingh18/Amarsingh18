@@ -100,40 +100,26 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarsingh18&theme=tokyo-night"/>
-
-</p>
-
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/amar-singh-739156242">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:182amarsingh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<img src="https://img.shields.io/badge/Email-182amarsingh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+<a href="https://linkedin.com/in/amar-singh-739156242">
+<img src="https://img.shields.io/badge/LinkedIn-Amar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://leetcode.com/u/AMAR__SINGH/">
-<img src="https://cdn.simpleicons.org/leetcode" width="40"/>
+<img src="https://img.shields.io/badge/LeetCode-AMAR__SINGH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://wa.me/918318393195">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-+91%208318393195-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
@@ -142,12 +128,12 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Amarsingh18&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Amarsingh18&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:26D0CE,100:1A2980&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
 
 </p>
