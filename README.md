@@ -73,8 +73,7 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 <p align="center">
 
 <a href="https://leetcode.com/u/AMAR__SINGH/">
-<img src="https://leetcard.jacoblin.cool/AMAR__SINGH?theme=dark&font=Karma"/>
-
+<img src="https://leetcard.jacoblin.cool/AMAR__SINGH?theme=dark&font=Poppins"/>
 </a>
 
 </p>
@@ -112,12 +111,22 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:182amarsingh@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/AMAR__SINGH/">
 <img src="https://cdn.simpleicons.org/leetcode"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://wa.me/918318393195">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
