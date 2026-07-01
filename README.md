@@ -99,7 +99,21 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 | Palantir Foundry Demo | Ontology • Data Pipeline |
 
 ---
+# 💡 Developer Mindset
 
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 ---
 
 ## 🌐 Connect With Me
