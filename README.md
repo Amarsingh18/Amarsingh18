@@ -1,22 +1,85 @@
+<!-- ==================== Banner ==================== -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:26D0CE,100:1A2980&height=250&section=header&text=Amar%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20TCS%20|%20Java%20Backend%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Amar%20Singh&fontColor=ffffff&fontSize=65&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20@%20Tata%20Consultancy%20Services&descAlignY=58&descSize=22"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Amar Singh</h1>
+<!-- ==================== Greeting ==================== -->
+
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Amar Singh
+</h1>
 
 <h3 align="center">
-Software Engineer @ Tata Consultancy Services (TCS)
+💼 Software Engineer @ Tata Consultancy Services (TCS)
 </h3>
 
-<p align="center">
-Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • Palantir Foundry
-</p>
+<h4 align="center">
+☕ Java Backend Developer • Spring Boot • REST APIs • Hibernate • SQL • Palantir Foundry
+</h4>
+
+<!-- ==================== Typing Animation ==================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer+%40+TCS;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Palantir+Foundry;Always+Learning+New+Technologies"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+@+TCS;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Palantir+Foundry+Developer;Microservices+Learner;System+Design+Enthusiast;Always+Learning+New+Technologies"/>
+
+</p>
+
+<!-- ==================== Badges ==================== -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Palantir_Foundry-101010?style=for-the-badge"/>
+
+</p>
+
+<!-- ==================== Social ==================== -->
+
+<p align="center">
+
+<a href="mailto:182amarsingh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/amar-singh-739156242">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/AMAR__SINGH/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Amarsingh18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- ==================== Visitors ==================== -->
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Amarsingh18&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Amarsingh18?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Amarsingh18?label=Stars&style=for-the-badge"/>
+
 </p>
 
 ---
+
 
 # 👨‍💻 About Me
 
