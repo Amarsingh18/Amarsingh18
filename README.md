@@ -1,36 +1,69 @@
-<h1 align="center">Hi 👋, I'm Amar Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer @ Tata Consultancy Services (TCS)
-</h3>
+# 👋 Hi, I'm Amar Singh
 
-<p align="center">
-Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • Palantir Foundry
+<img src="assets/profile.jpg" width="180" style="border-radius:50%;" alt="Amar Singh"/>
+
+### 💼 Software Engineer @ Tata Consultancy Services (TCS)
+
+### ☕ Java Backend Developer | Spring Boot | REST APIs | SQL | Hibernate | Palantir Foundry
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+TCS;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Palantir+Foundry;Always+Learning+New+Technologies"/>
+
+<p>
+<a href="https://linkedin.com/in/amar-singh-739156242">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:182amarsingh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/AMAR__SINGH/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+TCS;Java+Backend+Developer;Spring+Boot+%7C+REST+API+Developer;Palantir+Foundry+Developer;Always+Learning+New+Technologies" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Amarsingh18&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Software Engineer @ **TCS**
-- ☕ Java Backend Developer
-- 🚀 Building scalable backend applications
-- 🌱 Learning **Microservices** & **System Design**
-- 💡 Passionate about Backend Engineering & Clean Code
-- 🧩 Solved **350+ LeetCode** Problems
-- 📘 Solved **150+ GeeksforGeeks** Problems
+```java
+public class AmarSingh {
+
+    String role = "Software Engineer @ TCS";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Hibernate",
+        "SQL",
+        "Palantir Foundry",
+        "Git",
+        "Jenkins"
+    };
+
+    String currentFocus =
+        "Microservices | System Design | Backend Engineering";
+
+    String achievements =
+        "350+ LeetCode | 150+ GeeksforGeeks | Star Performer @ TCS";
+}
+```
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,maven,jenkins,docker,linux,vscode,idea,html,css,js,react,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,maven,jenkins,docker,linux,idea,vscode,postman,react,html,css,js"/>
 
 </p>
 
@@ -40,9 +73,9 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amarsingh18&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amarsingh18&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarsingh18&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarsingh18&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -62,7 +95,7 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amarsingh18&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amarsingh18&theme=tokyonight&column=7"/>
 
 </p>
 
@@ -73,7 +106,8 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 <p align="center">
 
 <a href="https://leetcode.com/u/AMAR__SINGH/">
-<img src="https://leetcard.jacoblin.cool/AMAR__SINGH?theme=dark&font=Karma"/>
+
+<img src="https://leetcard.jacoblin.cool/AMAR__SINGH?theme=dark&font=Poppins"/>
 
 </a>
 
@@ -81,26 +115,51 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 Path Finding Visualizer | Dijkstra, BFS, DFS Visualization |
-| 💰 Expense Tracker | React-based Personal Finance Tracker |
-| ☕ Spring Boot REST API | Java + Spring Boot + Hibernate + MySQL |
-| 👨‍💼 Employee Management System | CRUD Application using Spring Boot |
-| 🔐 JWT Authentication | Spring Security Authentication |
-| 📊 Palantir Foundry Projects | Data Pipeline & Ontology |
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarsingh18&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarsingh18&theme=react-dark"/>
 
 </p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Backend Development
+- ☕ Java & Spring Boot
+- 🌐 REST APIs
+- 🏗 Microservices
+- 📊 System Design
+- 🧩 Data Structures & Algorithms
+- 📦 Docker
+- ⚙ Jenkins
+- ☁ Cloud Technologies
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 🛠 Technology |
+|------------|--------------|
+| Path Finding Visualizer | React • Dijkstra • BFS • DFS |
+| Expense Tracker | React |
+| Employee Management System | Spring Boot • MySQL |
+| Spring Boot REST API | Java • Hibernate |
+| JWT Authentication | Spring Security |
+
+---
+
+# 🏅 Achievements
+
+🏆 Star Performer @ Tata Consultancy Services
+
+🧩 Solved 350+ Problems on LeetCode
+
+📘 Solved 150+ Problems on GeeksforGeeks
+
+💼 2+ Years of Enterprise Development Experience
 
 ---
 
@@ -109,23 +168,37 @@ Java Backend Developer • Spring Boot • REST APIs • SQL • Hibernate • P
 <p align="center">
 
 <a href="https://linkedin.com/in/amar-singh-739156242">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:182amarsingh@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 <a href="https://leetcode.com/u/AMAR__SINGH/">
+
 <img src="https://cdn.simpleicons.org/leetcode"/>
+
+</a>
+
+<a href="https://github.com/Amarsingh18">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Amarsingh18&label=Profile%20Views&color=0e75b6&style=flat"/>
+## ⭐ Thanks for visiting my profile!
 
-</p>
+### If you like my projects, don't forget to ⭐ them.
+
+</div>
