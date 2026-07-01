@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amar Singh
 
-<img src="assets/profile.jpg" width="180" style="border-radius:50%;" alt="Amar Singh"/>
+<img src=""C:\desktop file here\personal\AMAR PIC.jpg"" width="180" style="border-radius:50%;" alt="Amar Singh"/>
 
 ### 💼 Software Engineer @ Tata Consultancy Services (TCS)
 
